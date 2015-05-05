@@ -4,7 +4,7 @@
 [Demo] (https://127b03408f99e1efdcaf3076e925a62d0f8e3f77.googledrive.com/host/0B1i-MmMQE8wQflFXLXpmR3o2a0NQZ3ZKczUtdzBUaFdabEMxcnIwX0tnc2RQVmFKY2gxVjQ/)
 
 ##Actions: 
-```
+
 →Play sound - generate & play sound with simple custom parameters on the fly .
 →Play Pro sound - generate & play sound with advanced custom parameters on the fly.
 →Play CSV string - generate & play sound from CSV string on the fly. You can copy string from as3sfxr.
@@ -18,8 +18,7 @@
 
 →Cache octave - cache octave with custom parameters.
 →Play cached note from octave - play note from cached octave.
-```
+
 ##Expressions: 
-```
+
 →LastSoundUrl - Returns last played sound Url in Base64 format.
-```
