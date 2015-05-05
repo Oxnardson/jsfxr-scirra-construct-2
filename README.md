@@ -1,5 +1,5 @@
 #jSFXR plugin for Scirra Construct 2
-
+![jSFXR Logo](http://leaderboardhost.com/jSFXR_big.png)
 
 [Demo] (https://127b03408f99e1efdcaf3076e925a62d0f8e3f77.googledrive.com/host/0B1i-MmMQE8wQflFXLXpmR3o2a0NQZ3ZKczUtdzBUaFdabEMxcnIwX0tnc2RQVmFKY2gxVjQ/)
 
